@@ -1,13 +1,14 @@
 {
-  "name": "ui-theme-template",
+  "name": "simple-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "Simple UI",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "simple"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/atom-community/simple-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
