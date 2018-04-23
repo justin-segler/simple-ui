@@ -8,7 +8,7 @@
     "theme",
     "simple"
   ],
-  "repository": "https://github.com/atom-community/simple-ui",
+  "repository": "https://github.com/justin-segler/simple-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
